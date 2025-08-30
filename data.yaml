@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/Pkr_Notes.v3-abdul.yolov9/train
+val: /content/drive/MyDrive/Pkr_Notes.v3-abdul.yolov9/valid
+test: /content/drive/MyDrive/Pkr_Notes.v3-abdul.yolov9/test
+
+nc: 7
+names: ['PKR_10', 'PKR_100', 'PKR_1000', 'PKR_20', 'PKR_50', 'PKR_500', 'PKR_5000']
+
