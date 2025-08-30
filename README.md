@@ -55,7 +55,7 @@ Pkr_Notes/
 ### Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Pkr_Notes.git
+git clone https://github.com/mabdulghufran/pkr_notes.git
 cd Pkr_Notes
 ```
 
@@ -145,3 +145,4 @@ For questions or support, please open an issue on GitHub.
 ---
 
 **Note**: This project is designed for educational and research purposes. Please ensure compliance with local regulations when using this system for financial applications.
+
